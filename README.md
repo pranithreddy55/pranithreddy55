@@ -23,6 +23,6 @@
 
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranithreddy55&show_icons=true&locale=en&layout=compact" alt="pranithreddy55" /></p>
 
-<p>&nbsp;<img align="center" width="415" src="https://github-readme-stats.vercel.app/api?username=pranithreddy55&show_icons=true&locale=en" alt="pranithreddy55" /></p>
+<p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=pranithreddy55&show_icons=true&locale=en" alt="pranithreddy55" /></p>
 
 <p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=pranithreddy55&" alt="pranithreddy55" /></p>
