@@ -12,7 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pranith-reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranith-reddy" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/
+pranith-reddy-137452258
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranith-reddy" height="30" width="40" /></a>
 <a href="https://fb.com/pranith.reddy.9693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranith.reddy.9693" height="30" width="40" /></a>
 <a href="https://instagram.com/itzz_pranith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzz_pranith" height="30" width="40" /></a>
 </p>
