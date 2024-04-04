@@ -1,7 +1,7 @@
 ![logo](240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h1 align="center">Hi 👋, I'm Pranith Reddy</h1>
 <h3 align="center">I am a passionate learner currently pursuing a degree in Artificial Intelligence at Parul University in Gujarat</h3>
-<img align="right" alt="Coding" width="580" src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Coding" width="500" src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranithreddy55&label=Profile%20views&color=0e75b6&style=flat" alt="pranithreddy55" /> </p>
 
