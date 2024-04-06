@@ -11,7 +11,9 @@
 
 - ⚡ Fun fact **When I was a kid, I wanted to be a PILOT**
 
-<h3 align="left">Connect with me:</h3>
+<div align="left">
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/Gurupatil0003/Gurupatil0003/blob/main/Handshake.gif" width="60"></a>
+</h3> 
 <p align="left">
 <a href="https://www.linkedin.com/in/pranith-reddy-137452258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranith-reddy" height="30" width="40" /></a>
 <a href="https://fb.com/pranith.reddy.9693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranith.reddy.9693" height="30" width="40" /></a>
