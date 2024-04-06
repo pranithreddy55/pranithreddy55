@@ -5,7 +5,7 @@
 
 <p align="center">  
     <img src="https://komarev.com/ghpvc/?username=pranithreddy55" alt="pranithreddy55"/>       
-    <a href="https://github.com/pranithreddy55?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/pranithreddy55" alt="Repos"/></a>    
+    <a href="https://github.com/pranithreddy55?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/Repositories/pranithreddy55" alt="Repositories"/></a>    
     <img src="https://badges.pufler.dev/years/pranithreddy55" alt="Active_Years"/>
     <a href="https://github.com/pranithreddy55/pranithreddy55" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/pranithreddy55&logoColor=white" alt="commits"/></a>
     <a href="https://github.com/pranithreddy55/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/pranithreddy55/pranithreddy55" /></a>
