@@ -3,7 +3,18 @@
 <h3 align="center">I am a passionate learner currently pursuing a degree in Artificial Intelligence at Parul University in Gujarat</h3>
 <img align="right" alt="Coding" width="450" src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranithreddy55&label=Profile%20views&color=0e75b6&style=flat" alt="pranithreddy55" /> </p>
+<p align="center">  
+    <img src="https://komarev.com/ghpvc/?username=pranithreddy55" alt="pranithreddy55"/>       
+    <a href="https://github.com/pranithreddy55?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/pranithreddy55" alt="Repos"/></a>    
+    <img src="https://badges.pufler.dev/years/pranithreddy55" alt="Active_Years"/>
+    <a href="https://github.com/pranithreddy55/pranithreddy55" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/pranithreddy55&logoColor=white" alt="commits"/></a>
+    <a href="https://github.com/pranithreddy55/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/pranithreddy55/pranithreddy55" /></a>
+    <a href="https://github.com/pranithreddy55?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/pranithreddy55?color=4C1&logo=github"></a>
+</p>
+<!--
+<a href="https://github.com/pranithreddy55/pranithreddy55" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/pranithreddy55/pranithreddy55?label=Profile%20update&style=fflat-square"></a>
+-->
+
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
