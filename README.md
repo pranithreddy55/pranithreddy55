@@ -53,5 +53,10 @@
 <div align="right">
   <img src="https://streak-stats.demolab.com?user=pranithreddy55&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"  width="450" alt="streak graph"  />
 </div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=pranithreddy55&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
+###
 <p><img align="center" src="github-contribution-grid-snake.svg" alt="pranithreddy55" /></p>
+
