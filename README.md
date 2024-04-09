@@ -4,11 +4,13 @@
 <img align="right" alt="Coding" width="450" src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="center">  
-    <img src="https://komarev.com/ghpvc/?username=pranithreddy55" alt="Profile Views"/>       
-    <a href="https://github.com/pranithreddy55?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/pranithreddy55?color=red&style=flat-square" alt="Repos"/></a>    
-    <a href="https://github.com/pranithreddy55/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/pranithreddy55/pranithreddy55?color=green&style=flat-square" /></a>
-    <a href="https://github.com/pranithreddy55?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/pranithreddy55?color=violet&logo=github&style=flat-square"></a>
+    <img src="https://komarev.com/ghpvc/?username=pranithreddy55" alt="pranithreddy55"/>       
+    <a href="https://github.com/pranithreddy55?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/pranithreddy55?color=red" alt="Repos"/></a>    
+    <img src="https://badges.pufler.dev/years/pranithreddy55?color=vilot" alt="Active_Years"/>
+    <a href="https://github.com/pranithreddy55/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/pranithreddy55/pranithreddy55?color=green" /></a>
+    <a href="https://github.com/pranithreddy55?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/pranithreddy55?color=blue&logo=github"></a>
 </p>
+
 
 
 
